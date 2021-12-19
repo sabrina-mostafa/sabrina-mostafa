@@ -4,7 +4,7 @@ I am Sabrina from Bangladesh.
 </br>
 
 ## My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrina-mostafa)](https://github.com/anuraghazra/github-readme-stats)
+[![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrina-mostafa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
