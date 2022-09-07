@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **sabrinamostafa9900@gmail.com**
 
-- 📄 Know about my experiences : [https://drive.google.com/file/d/11YXhMj0BeTJOh-yODBFxA9zjystu3C3w/view?usp=sharing](https://drive.google.com/file/d/11YXhMj0BeTJOh-yODBFxA9zjystu3C3w/view?usp=sharing)
+- 📄 Know about my experiences : [My_Resume](https://drive.google.com/file/d/11YXhMj0BeTJOh-yODBFxA9zjystu3C3w/view?usp=sharing)
 
 - ⚡ Fun fact : **I can make anyone smile while they are sad!**
 
