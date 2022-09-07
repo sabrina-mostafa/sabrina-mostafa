@@ -42,9 +42,9 @@
 <h2 align="left">Connect with me :</h2>
 <p align="left">
   <a href="https://fb.com/sabrina mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabrina mostafa" height="30" width="40" /></a>
-<a href="https://twitter.com/mostafasabreena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafasabreena" height="30" width="40" /></a>
+<a href="https://twitter.com/mostafasabreena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafasabreena" height="34" width="40" /></a>
   <a href="https://instagram.com/__._sabr_.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__._sabr_.__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sabrina mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabrina mostafa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sabrina mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabrina mostafa" height="29" width="40" /></a>
 <a href="https://www.stopstalk.com/user/profile/sabrina_mostafa" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/678521591186108416/uL2rIDRz_400x400.png" height="30" width="34" /></a>
 </p>
 <br/><br/>
