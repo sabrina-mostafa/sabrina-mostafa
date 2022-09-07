@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/e6/06/05/e60605d5e1e5175a6370535dea77b1e9.png)
-<h1 align="center">Hi 👋, I'm Sabrina Mostafa</h1>
+<h1 align="center">Hi 👋, I'm Sabrina Mostafa.</h1>
 <h3 align="center">A Learner & Competitive Programmer</h3><br/><br/><br/>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qESSXMw7uw0AAAAC/muslim-smiling.gif">
