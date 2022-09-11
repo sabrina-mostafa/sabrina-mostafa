@@ -1,4 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/e6/06/05/e60605d5e1e5175a6370535dea77b1e9.png)
+
 <h1 align="center">Hi 👋, I'm Sabrina Mostafa.</h1>
 <h3 align="center">A Learner & Competitive Programmer</h3><br/><br/><br/>
 
@@ -16,12 +17,10 @@
 
 - ⚡ Fun fact : **I can make anyone smile while they are sad!**
 
-<br/>
-<br/><br/>
-### My Github Stats
+<br/><br/><br/>
+<h2>My Github Stats :</h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sabrina-mostafa&show_icons=true&count_private=true&theme=dark" alt="sabrina-mostafa" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrina-mostafa&show_icons=true&locale=en&layout=compact" alt="sabrina-mostafa" /></p>
-<br/>
+
 <h2 align="left">Languages and Tools :</h2>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -51,11 +50,10 @@
 <a href="https://linkedin.com/in/sabrina mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabrina mostafa" height="29" width="40" /></a>
 <a href="https://www.stopstalk.com/user/profile/sabrina_mostafa" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/678521591186108416/uL2rIDRz_400x400.png" height="30" width="34" /></a>
 </p>
-<br/><br/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrina-mostafa&show_icons=true&locale=en&layout=compact" alt="sabrina-mostafa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabrina-mostafa&show_icons=true&locale=en" alt="sabrina-mostafa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina-mostafa&" alt="sabrina-mostafa" /></p>
-
+<br/><br/><br/>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabrina-mostafa&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+ 
+  [![activity graph](https://activity-graph.herokuapp.com/graph?username=sabrina-mostafa&theme=react-dark)](https://github.com/sabrina-mostafa/github-readme-activity-graph)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-mostafa&theme=dark&layout=compact&align=right&width=40%)](https://github.com/sabrina-mostafa/github-readme-stats)
