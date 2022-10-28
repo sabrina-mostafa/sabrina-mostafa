@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mostafasabreena" target="blank"><img src="https://img.shields.io/twitter/follow/mostafasabreena?logo=twitter&style=for-the-badge" alt="mostafasabreena" /></a> </p>
 
-- 💬 Ask me about : **C, C++, Python, SQL, HTML, CSS etc.**
+- 💬 Ask me about : **C, C++, Python, SQL, HTML, CSS, JS etc.**
 
 - 📫 How to reach me : **sabrinamostafa9900@gmail.com**
 
