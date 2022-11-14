@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences : [My_Resume](https://drive.google.com/file/d/1U1y1cV3uYmay1VDr0TwgY--xN7wn_Hca/view?usp=sharing)
 
-- ⚡ Fun fact : **I can make anyone smile while they are sad!**
+- ⚡ Fun fact : **Loading.....!!**
 
 <br/><br/><br/>
 <h2>My Github Stats :</h2>
