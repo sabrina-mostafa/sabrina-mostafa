@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **sabrinamostafa9900@gmail.com**
 
-- 📄 Know about my experiences : [My_Resume](https://docs.google.com/document/d/16-hlk64sagTqV53zeyW6DQq2GnTcF15R2GWg87Rn914/edit?usp=sharing)
+- 📄 Know about my experiences : [My_Resume](https://docs.google.com/document/d/1bKs5h5NIxQjssjvFUov1sB7wl56qujoyLvTp5lSLDQ8/edit)
 
 - ⚡ Fun fact : **Loading.....!!**
 
